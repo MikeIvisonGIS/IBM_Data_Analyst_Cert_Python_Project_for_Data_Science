@@ -13,6 +13,7 @@ The project compares stock information from Tesla and Gamestop from ~2010-2021.
 ### Items 2 and 3 are interactive plots and can be viewed using the links below:
 
 Tesla Revenue - https://mikeivisongis.github.io/docs/tesla_revenue_graph.html
+
 Gamestop Revenue - https://mikeivisongis.github.io/docs/gme_revenue_graph.html
 
 ### As a rough guideline, I followed the steps below:
