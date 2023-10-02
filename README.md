@@ -1,7 +1,7 @@
 # IBM_Data_Analyst_Cert_Python_Project_for_Data_Science
 Contains deliverables that were created as part of the Python Project for Data Science course that is part of the IBM Data Analyst Professional Certificate.
 
-The project compares stock information from Tesla and Gamestop from ~2010-2021.
+The project uses yfinance to compare stock information from Tesla and Gamestop from ~2010-2021.
 
 ### The deliverables include:
 
